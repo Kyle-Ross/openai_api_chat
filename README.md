@@ -12,7 +12,7 @@ Key Differences to the web UI:
 - Can use different language models
 - Conversations are not saved
 
+![rolling_chat example gif](https://i.imgur.com/pjuCkKm.gif)
+
 ## Limitations
 Does not support multi-line input from the user, and cannot render the markdown output.
-
-![rolling_chat example gif](https://i.imgur.com/pjuCkKm.gif)
